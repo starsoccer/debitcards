@@ -18,14 +18,19 @@
 |[Greendot](https://greendot.com)|1%|:white_check_mark:|:x:|
 |[Step](https://step.com)|1-3%|:white_check_mark:|:x:|
 |[Obee](https://obee.com)|1%|:question:|:x:|
-|[Dogecard](https://dogecard.co)|0.85-3%|:white_check_mark:|:x:|
 |[M1](https://m1.com)|1%|:white_check_mark:|:white_check_mark:|Shutdown Oct 1st
 |[Stash](https://stash.com)|1%|:question:|:x:|
+
+### Lottery
+|[Yotta](https://withyotta.com)|0-10k|:question:|:x:|
+|[PrizePool](https://getprizepool.com)|0-100%|:question:|:x:|
 
 ### Crypto Cashback
 |Name|CashBack|Unlimited|Tested|More Info|
 |---|---|---|---|---|
 |[Crypto](https://crypto.com)|1-5%|:question:|:x:|
+|[Hi](https://hi.com)|1-12%|:question:|:x:|Not out yet
+|[Dogecard](https://dogecard.co)|0.85-3%|:white_check_mark:|:x:|
 
 
 ## Business Cards
