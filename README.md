@@ -7,10 +7,11 @@
 |---|---|---|---|
 |[M1](https://m1.com)|1%|:white_check_mark:|Shutdown Oct 1st
 |[Fold](https://foldapp.com)|0.5%|:white_check_mark:|
-|[Greendot](https://greendot.com)|1%|:x:|
-|[Step](https://step.com)|1-3%|:x:|
-|[Opportunity Bank](https://opportunitybank.com)|1|:x:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
-|[Dogecard](https://dogecard.co)|0.85-3%|:x:|
+|[Greendot](https://greendot.com)|1%|:question:|
+|[Step](https://step.com)|1-3%|:question:|
+|[Opportunity Bank](https://opportunitybank.com)|1|:question:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
+|[Dogecard](https://dogecard.co)|0.85-3%|:question:|
+|[Lending Club](https://lendingclub.com)|1%|:question:|
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
