@@ -2,7 +2,7 @@
 
 
 ## Personal Cards
-|Name|CashBack|Unlimited|Tested|More Info|
+|Name|CashBack|Unlimited|PPBP|More Info|
 |---|---|---|---|---|
 |[CCC ULV](https://ccculv.org)|1-3%|:question:|:x:|
 |[First Financial](https://firstfinancial.org)|0.5%|:question:|:x:|
@@ -19,6 +19,8 @@
 |[Step](https://step.com)|1-3%|:white_check_mark:|:x:|
 |[Obee](https://obee.com)|1%|:question:|:x:|
 |[M1](https://m1.com)|1%|:white_check_mark:|:white_check_mark:|Shutdown Oct 1st
+|[Fold](https://foldapp.com)|0.5%|:white_check_mark:|:white_check_mark:|
+|[BlueDot](https://www.thebluedot.co/)|2%|:question:|:x:|
 |[Stash](https://stash.com)|1%|:question:|:x:|
 
 ### Lottery
