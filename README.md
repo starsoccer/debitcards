@@ -17,6 +17,10 @@
 |[Opportunity Bank](https://opportunitybank.com)|1|:white_check_mark:|:x:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
 |[Greendot](https://greendot.com)|1%|:white_check_mark:|:x:|
 |[Step](https://step.com)|1-3%|:white_check_mark:|:x:|
+|[Obee](https://obee.com)|1%|:question:|:x:|
+|[Dogecard](https://dogecard.co)|0.85-3%|:white_check_mark:|:x:|
+|[M1](https://m1.com)|1%|:white_check_mark:|:white_check_mark:|Shutdown Oct 1st
+|[Stash](https://stash.com)|1%|:question:|:x:|
 
 ### Crypto Cashback
 |Name|CashBack|Unlimited|Tested|More Info|
