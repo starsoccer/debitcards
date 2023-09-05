@@ -12,6 +12,7 @@
 |[Opportunity Bank](https://opportunitybank.com)|1|:question:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
 |[Dogecard](https://dogecard.co)|0.85-3%|:question:|
 |[Lending Club](https://lendingclub.com)|1%|:question:|
+|[Curve](https://curve.com)|1%|:white_check_mark:|Cashback is introductory for first 30 days to 6 months
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
