@@ -22,7 +22,7 @@
 ## Unknown Cards
 
 ### Personal Cards
-|Name|CashBack|Limit|PPBP|More Info|
+|Name|CashBack|Limit(per month)|PPBP|More Info|
 |---|---|---|---|---|
 |[CCC ULV](https://ccculv.org)|1-3%|:question:|:question:|
 |[First Financial](https://firstfinancial.org)|0.5%|:question:|:question:|
@@ -38,12 +38,13 @@
 |[BlueDot](https://thebluedot.co)|2%|:question:|:question:|
 |[Stash](https://stash.com)|1%|:question:|:question:|
 |[Treecard](https://treecard.org)|1-3%|:question:|:question:|
+|[Axos Bank](https://axosbank.com)|1%|20$|:x:|
 
 ### Lottery
 |Name|CashBack|Limit|PPBP|More Info|
 |---|---|---|---|---|
 |[Yotta](https://withyotta.com)|0-10k|:question:|:question:|
-|[PrizePool](https://getprizepool.com)|0-100%|:question:|:question:|
+|[PrizePool](https://getprizepool.com)|0-100%|:white_check_mark: (tickets only)|:question:|
 
 ### Crypto Cashback
 |Name|CashBack|Limit|PPBP|More Info|
