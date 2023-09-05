@@ -5,7 +5,7 @@
 ### Personal Cards
 |Name|CashBack|PPBP|More Info|
 |---|---|---|---|
-|[M1](https://m1.com)|1%|:white_check_mark:|Shutdown Oct 1st
+|[M1](https://m1.com)|1%|:white_check_mark:|Shutdown Oct 31st
 |[Fold](https://foldapp.com)|0.5%|:white_check_mark:|
 |[Greendot](https://greendot.com)|1%|:question:|
 |[Step](https://step.com)|1-3%|:question:|
