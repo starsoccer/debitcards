@@ -13,6 +13,7 @@
 |[Dogecard](https://dogecard.co)|0.85-3%|:question:|
 |[Lending Club](https://lendingclub.com)|1%|:question:|
 |[Curve](https://curve.com)|1%|:white_check_mark:|Cashback is introductory for first 30 days to 6 months
+|[Juno](https://juno.finance)|0.88% - 1.88%|:white_check_mark:| Uses complicated virtual coin/point system. 2jcoins per 1$ direct deposited, 2 jcoins per 1$ spent, can boost 6x a year to 6 jcoins per spend for 1 week. 1jcoin = 0.001$ when redeemed for giftcards but can redeem for high value cards, 50$ giftcard = 45k jcoins|
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
@@ -40,6 +41,7 @@
 |[Stash](https://stash.com)|1%|:question:|:question:|
 |[Treecard](https://treecard.org)|1-3%|:question:|:question:|
 |[Axos Bank](https://axosbank.com)|1%|20$|:x:|
+|[Quontic](https://quontic.com)|1%|:question:|
 
 ### Lottery
 |Name|CashBack|Limit|PPBP|More Info|
