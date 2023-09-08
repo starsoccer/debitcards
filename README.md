@@ -14,6 +14,7 @@
 |[Lending Club](https://lendingclub.com)|1%|:question:|
 |[Curve](https://curve.com)|1%|:white_check_mark:|Cashback is introductory for first 30 days to 6 months
 |[Juno](https://juno.finance)|0.88% - 1.88%|:white_check_mark:| Uses complicated virtual coin/point system. 2jcoins per 1$ direct deposited, 2 jcoins per 1$ spent, can boost 6x a year to 6 jcoins per spend for 1 week. 1jcoin = 0.001$ when redeemed for giftcards but can redeem for high value cards, 50$ giftcard = 45k jcoins|
+|[OneVIP](https://onevip.com)|0.5%|:question:|
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
@@ -41,6 +42,8 @@
 |[Treecard](https://treecard.org)|1-3%|:question:|:question:|
 |[Quontic](https://quontic.com)|1%|:question:|
 |[Onyx Private](https://onyxprivate.com)|1-5%|:question:|
+|[Use Eagle](https://useagle.org)|:question:|:question:|
+|[Varo Money](https://varomoney.com)|1-6^|:question:|
 
 ### Lottery
 |Name|CashBack|Limit|PPBP|More Info|
