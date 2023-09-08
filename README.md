@@ -43,7 +43,8 @@
 |[Quontic](https://quontic.com)|1%|:question:|
 |[Onyx Private](https://onyxprivate.com)|1-5%|:question:|
 |[Use Eagle](https://useagle.org)|:question:|:question:|
-|[Varo Money](https://varomoney.com)|1-6^|:question:|
+|[Varo Money](https://varomoney.com)|1-6%|:question:|
+|[Revolut](https://revolut.com)|1-30%|:question:|
 
 ### Lottery
 |Name|CashBack|Limit|PPBP|More Info|
@@ -57,6 +58,7 @@
 |---|---|---|---|---|
 |[Crypto](https://crypto.com)|1-5%|:question:|:question:|
 |[Hi](https://hi.com)|1-12%|:question:|:question:|Not out yet
+|[Bit 2 Me](https://bit2me.com)|0-7%|:question:|:question:|
 
 ### Charity
 |Name|CashBack|Limit|PPBP|More Info|
