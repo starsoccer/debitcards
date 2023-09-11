@@ -56,7 +56,7 @@
 ### Crypto Cashback
 |Name|CashBack|Limit|PPBP|More Info|
 |---|---|---|---|---|
-|[Crypto](https://crypto.com)|1-5%|:question:|:question:|
+|[Crypto](https://crypto.com)|1-5%|:question:|:x:|
 |[Hi](https://hi.com)|1-12%|:question:|:question:|Not out yet
 |[Bit 2 Me](https://bit2me.com)|0-7%|:question:|:question:|
 
