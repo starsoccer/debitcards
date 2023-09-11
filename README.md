@@ -7,7 +7,7 @@
 |---|---|---|---|
 |[M1](https://m1.com)|1%|:white_check_mark:|Shutdown Oct 31st
 |[Fold](https://foldapp.com)|0.5%|:white_check_mark:|
-|[Greendot](https://greendot.com)|1%|:question:|
+|[Greendot](https://greendot.com)|1%|:question:| May not work with PPBP per @oaato
 |[Step](https://step.com)|1-3%|:question:|
 |[Opportunity Bank](https://opportunitybank.com)|1|:question:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
 |[Dogecard](https://dogecard.co)|0.85-3%|:question:|
