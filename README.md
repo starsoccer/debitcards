@@ -25,22 +25,21 @@
 ## Unknown Cards
 
 ### Personal Cards
-|Name|CashBack|Limit(per month)|PPBP|More Info|
-|---|---|---|---|---|
-|[CCC ULV](https://ccculv.org)|1-3%|:question:|:question:|
-|[First Financial](https://firstfinancial.org)|0.5%|:question:|:question:|
-|[Upgrade](https://upgrade.com)|2%|:question:|:question:|
-|[Eco](https://ecoapp.com)|2%|:question:|:question:|
-|[OAS FCU](https://oasfcu.org)|1.5%|:question:|:question:|
-|[United Financial](https://unitedfinancialcu.org)|:question:|:question:|:question:|
-|[Texas Bank](https://texasbnk.com)|:question:|:question:|:question:|
-|[One Nevada](https://onenevada.org)|0.5%|:question:|:question:|
-|[Ugami](https://ugami.com/)|1-3%|:question:|:question:|
-|[Obee](https://obee.com)|1%|:question:|:question:|
-|[BlueDot](https://thebluedot.co)|2%|:question:|:question:|
-|[Stash](https://stash.com)|1%|:question:|:question:|
-|[Treecard](https://treecard.org)|1-3%|:question:|:question:|
-|[Quontic](https://quontic.com)|1%|50$|:question:|
+|Name|CashBack|PPBP|More Info|
+|---|---|---|---|
+|[CCC ULV](https://ccculv.org)|1-3%|:question:|
+|[First Financial](https://firstfinancial.org)|0.5%|:question:|
+|[Upgrade](https://upgrade.com)|2%|:question:|
+|[Eco](https://ecoapp.com)|2%|:question:|
+|[OAS FCU](https://oasfcu.org)|1.5%|:question:|
+|[United Financial](https://unitedfinancialcu.org)|:question:|:question:|
+|[Texas Bank](https://texasbnk.com)|:question:|:question:|
+|[One Nevada](https://onenevada.org)|0.5%|:question:|
+|[Ugami](https://ugami.com/)|1-3%|:question:|
+|[Obee](https://obee.com)|1%|:question:|
+|[BlueDot](https://thebluedot.co)|2%|:question:|
+|[Stash](https://stash.com)|1%|:question:|
+|[Treecard](https://treecard.org)|1-3%|:question:|
 |[Onyx Private](https://onyxprivate.com)|1-5%|:question:|
 |[Use Eagle](https://useagle.org)|:question:|:question:|
 |[Varo Money](https://varomoney.com)|1-6%|:question:|
@@ -73,3 +72,4 @@
 |[Laurel Road](https://laurelroad.com)|10$ a month|:question:|:question:|
 |[Affinity FCU](https://affinityfcu.com)|1%|10$|:white_check_mark:|
 |[Aloha Pacific](https://alohapacific.com)|0.5%|9$|:x:|
+|[Quontic](https://quontic.com)|1%|50$|:question:|
