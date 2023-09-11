@@ -7,7 +7,7 @@
 |---|---|---|---|
 |[M1](https://m1.com)|1%|:white_check_mark:|Shutdown Oct 31st
 |[Fold](https://foldapp.com)|0.5%|:white_check_mark:|
-|[Greendot](https://greendot.com)|1%|:question:| May not work with PPBP per @oaato
+|[Greendot](https://greendot.com)|1%|:question:| May not work with PPBP per @oaato 05/04/2023
 |[Step](https://step.com)|1-3%|:question:|
 |[Opportunity Bank](https://opportunitybank.com)|1|:question:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
 |[Dogecard](https://dogecard.co)|0.85-3%|:question:|
@@ -40,7 +40,7 @@
 |[BlueDot](https://thebluedot.co)|2%|:question:|:question:|
 |[Stash](https://stash.com)|1%|:question:|:question:|
 |[Treecard](https://treecard.org)|1-3%|:question:|:question:|
-|[Quontic](https://quontic.com)|1%|:question:|
+|[Quontic](https://quontic.com)|1%|50$|:question:|
 |[Onyx Private](https://onyxprivate.com)|1-5%|:question:|
 |[Use Eagle](https://useagle.org)|:question:|:question:|
 |[Varo Money](https://varomoney.com)|1-6%|:question:|
