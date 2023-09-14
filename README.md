@@ -37,7 +37,7 @@
 |[One Nevada](https://onenevada.org)|0.5%|:question:|
 |[Ugami](https://ugami.com/)|1-3%|:question:|
 |[Obee](https://obee.com)|1%|:question:|
-|[BlueDot](https://thebluedot.co)|2%|:question:|
+|[BlueDot](https://thebluedot.co)|2%|:x:|
 |[Stash](https://stash.com)|1%|:question:|
 |[Treecard](https://treecard.org)|1-3%|:question:|
 |[Onyx Private](https://onyxprivate.com)|1-5%|:question:|
@@ -50,7 +50,6 @@
 |---|---|---|---|---|
 |[Yotta](https://withyotta.com)|0-10k|:question:|:question:|
 |[PrizePool](https://getprizepool.com)|0-100%|:x:|:white_check_mark: (tickets only)|
-|[Moneylion](https://moneylion.com)|0-100%|500$ per spend|:question:|
 
 ### Crypto Cashback
 |Name|CashBack|Limit|PPBP|More Info|
@@ -66,6 +65,8 @@
 |[Price Card](https://paywithpride.com)|0.9%|:question:|:question:|
 
 ## Limited Cards
+
+### Personal Cards
 |Name|CashBack|Limit|PPBP|More Info|
 |---|---|---|---|---|
 |[Axos Bank](https://axosbank.com)|1%|20$|:x:|
@@ -73,3 +74,8 @@
 |[Affinity FCU](https://affinityfcu.com)|1%|10$|:white_check_mark:|
 |[Aloha Pacific](https://alohapacific.com)|0.5%|9$|:x:|
 |[Quontic](https://quontic.com)|1%|50$|:question:|
+
+### Lottery
+|Name|CashBack|Limit|PPBP|More Info|
+|---|---|---|---|---|
+|[Moneylion](https://moneylion.com)|0-100%|500$ per spend|:question:|
