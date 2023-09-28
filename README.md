@@ -74,6 +74,7 @@
 |[Affinity FCU](https://affinityfcu.com)|1%|10$|:white_check_mark:|
 |[Aloha Pacific](https://alohapacific.com)|0.5%|9$|:x:|
 |[Quontic](https://quontic.com)|1%|50$|:question:|
+|[Stash](https://stash.com)|1%|10$|:question:|
 
 ### Lottery
 |Name|CashBack|Limit|PPBP|More Info|
