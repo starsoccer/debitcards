@@ -17,6 +17,7 @@
 |[OneVIP](https://onevip.com)|0.5%|:question:|
 |[Shakepay](https://shakepay.com)|1%|:question:| Canadians only
 |[Beehive](https://beehive.org)|1%|:question:| Only for members of The Church of Jesus Christ of Latter-day Saints
+|[Super](https://super.com)|1%|:x:|
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
