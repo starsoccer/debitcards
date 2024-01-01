@@ -19,7 +19,7 @@
 |[Shakepay](https://shakepay.com)|1%|:question:| Canadians only
 |[Beehive](https://beehive.org)|1%|:question:| Only for members of The Church of Jesus Christ of Latter-day Saints
 |[Super](https://super.com)|1%|:x:| Unlimited 1% back
-|[Superior Choice(Cashback Checking)](https://superiorchoice.com)|1%|:question:|
+|[Superior Choice(Cashback Checking)](https://superiorchoice.com)|1%|:x:|
 |[Members Choice Credit Union](https://www.mccu.com)|0.1%|:question:|
 |[Copper State Credit Union](https://www.copperstatecu.org)|0.25% - 1%|:question:| Must spend atleast 700$ to earn cashback, then 1% up to 1.2k,0.5% up to 1.7k and then 0.25% after
 |[Use Eagle](https://useagle.org)|0.5%|:question:|
