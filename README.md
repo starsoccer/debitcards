@@ -6,7 +6,7 @@
 |Name|CashBack|PPBP|More Info|
 |---|---|---|---|
 |[Fold](https://foldapp.com)|0.5%|:white_check_mark:| Ongoing issues where some transactions do not get any cashback
-|[Greendot](https://greendot.com)|1%|:question:| May not work with PPBP per @oaato 05/04/2023
+|[Greendot](https://greendot.com)|2%|:question:| May not work with PPBP per @oaato 05/04/2023
 |[Step](https://step.com)|1-3%|:question:|
 |[Opportunity Bank](https://opportunitybank.com)|1|:question:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
 |[Dogecard](https://dogecard.co)|0.85-3%|:question:| Shutdown temporarily
@@ -24,6 +24,8 @@
 |[Copper State Credit Union](https://www.copperstatecu.org)|0.25% - 1%|:question:| Must spend atleast 700$ to earn cashback, then 1% up to 1.2k,0.5% up to 1.7k and then 0.25% after
 |[Use Eagle](https://useagle.org)|0.5%|:question:|
 |[Ed Fed](https://edfed.org)|0.5%|:question:|
+|[United Texas Credit Union](https://utxcu.com)|0.5%|:question:|
+|[One Nevada](https://onenevada.org)|0.5%|:question:|
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
@@ -93,6 +95,7 @@
 |[United Financial Credit Union](https://www.unitedfinancialcu.org)|1%|10$|:question:|
 |[Kearny Bank](https://www.kearnybank.com)|1%|10$|:question:|
 |[Aloha Pacific](https://alohapacific.com)|0.5%|9$|:x:|
+|[DreamFirst Bank](https://dreamfirst.bank)|3%|6$|:x:|
 |[Oxygen](https://oxygen.us)|1$|1$|:question:|Limited to fashfood and 1$ per 8.99$ spend. Once per 24 hours.
 
 ### Lottery
