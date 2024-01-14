@@ -10,8 +10,8 @@
 |[Step](https://step.com)|1-3%|:question:|
 |[Opportunity Bank](https://opportunitybank.com)|1|:question:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
 |[Dogecard](https://dogecard.co)|0.85-3%|:question:| Shutdown temporarily
-|[Causecard](https://getcausecard.com/)|0.75%|:white_check_mark:|
-|[Pridecard](https://www.paywithpride.com/)|0.75%|:white_check_mark:|
+|[Causecard](https://getcausecard.com/)|0.4-0.75%|:white_check_mark:|6012 MCC = 0.4% which includes PPBP
+|[Pridecard](https://www.paywithpride.com/)|0.4-0.75%|:white_check_mark:|6012 MCC = 0.4% which includes PPBP
 |[Lending Club](https://lendingclub.com)|1%|:question:|
 |[Curve](https://curve.com)|1%|:white_check_mark:|Cashback is introductory for first 30 days to 6 months
 |[Juno](https://juno.finance)|0.88% - 1.88%|:white_check_mark:| Uses complicated virtual coin/point system. 2jcoins per 1$ direct deposited, 2 jcoins per 1$ spent, can boost 6x a year to 6 jcoins per spend for 1 week. 1jcoin = 0.001$ when redeemed for giftcards but can redeem for high value cards, 50$ giftcard = 45k jcoins|
@@ -51,7 +51,6 @@
 |[BlueDot](https://thebluedot.co)|2%|:x:|
 |[Stash](https://stash.com)|1%|:question:|
 |[Treecard](https://treecard.org)|1-3%|:question:|
-|[Onyx Private](https://onyxprivate.com)|1-5%|:question:|
 |[Use Eagle](https://useagle.org)|:question:|:question:|
 |[Varo Money](https://varomoney.com)|1-6%|:question:|
 |[Revolut](https://revolut.com)|1-30%|:question:|
@@ -69,17 +68,12 @@
 |[Hi](https://hi.com)|1-12%|:question:|:question:|Not out yet
 |[Bit 2 Me](https://bit2me.com)|0-7%|:question:|:question:|
 
-### Charity
-|Name|CashBack|Limit|PPBP|More Info|
-|---|---|---|---|---|
-|[Cause Card](https://getcausecard.com)|0.9%|:question:|:question:|
-|[Price Card](https://paywithpride.com)|0.9%|:question:|:question:|
-
 ## Limited Cards
 
 ### Personal Cards
 |Name|CashBack|Limit|PPBP|More Info|
 |---|---|---|---|---|
+|[Onyx Private](https://onyxprivate.com)|10k-20k|1-5%|:white_check_mark:| Limited to 20-100$ a month cashback, depending on plan. Business plan offers 1.5% back capped at 20k spend
 |[Tyndall](https://www.tyndall.org)|1%|50$|:question:|
 |[Quontic](https://quontic.com)|1%|50$|:question:| Likely doesnt work with PPBP due to terms but needs to be tested/confirmed
 |[Privacy](https://privacy.com)|1%|45$|:question:| Requires paying for 10$ a month plan
@@ -105,6 +99,6 @@
 
 ## Non-US Cards
 |Name|CashBack|PPBP|More Info|
-|---|---|---|---|---|
+|---|---|---|---|
 |[Plutus](https://plutus.it)|?|:question:|
 |[Wirex](https://Wirex.it)|2%|:question:|
