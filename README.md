@@ -6,7 +6,7 @@
 |Name|CashBack|PPBP|More Info|
 |---|---|---|---|
 |[Fold](https://foldapp.com)|0.5%|:white_check_mark:| Ongoing issues where some transactions do not get any cashback
-|[Greendot](https://greendot.com)|2%|:question:| May not work with PPBP per @oaato 05/04/2023
+|[Greendot](https://greendot.com)|2%|:x:|
 |[Step](https://step.com)|1-3%|:question:|
 |[Opportunity Bank](https://opportunitybank.com)|1|:question:|Explictly excludes Google Wllaet, Paypal, Venmo, Square Cash and Money Gram transactions from cashback|
 |[Dogecard](https://dogecard.co)|0.85-3%|:question:| Shutdown temporarily
