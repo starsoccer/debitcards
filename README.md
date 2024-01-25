@@ -26,6 +26,7 @@
 |[Ed Fed](https://edfed.org)|0.5%|:question:|
 |[United Texas Credit Union](https://utxcu.com)|0.5%|:question:|
 |[One Nevada](https://onenevada.org)|0.5%|:question:|
+|[Onyx Private](https://onyxprivate.com)|10k-20k|0.3-5%|:white_check_mark:| All Paypal transactionss are now capped at 0.3% cashback. Other non financial may be eligable for more
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
@@ -73,8 +74,6 @@
 ### Personal Cards
 |Name|CashBack|Limit|PPBP|More Info|
 |---|---|---|---|---|
-|[Onyx Private](https://onyxprivate.com)|10k-20k|1-5%|:white_check_mark:| Limited to 20-100$ a month cashback, depending on plan. Business plan offers 1.5% back capped at 20k spend
-|[Tyndall](https://www.tyndall.org)|1%|50$|:question:|
 |[Quontic](https://quontic.com)|1%|50$|:question:| Likely doesnt work with PPBP due to terms but needs to be tested/confirmed
 |[Privacy](https://privacy.com)|1%|45$|:question:| Requires paying for 10$ a month plan
 |[River Region](https://www.rrcu.org/cashback)|3%|30$|:question:|
@@ -90,6 +89,7 @@
 |[Kearny Bank](https://www.kearnybank.com)|1%|10$|:question:|
 |[Aloha Pacific](https://alohapacific.com)|0.5%|9$|:x:|
 |[DreamFirst Bank](https://dreamfirst.bank)|3%|6$|:x:|
+|[Tyndall](https://www.tyndall.org)|0.2%|50$|:question:|
 |[Oxygen](https://oxygen.us)|1$|1$|:question:|Limited to fashfood and 1$ per 8.99$ spend. Once per 24 hours.
 
 ### Lottery
