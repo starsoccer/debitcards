@@ -25,8 +25,14 @@
 |[Use Eagle](https://useagle.org)|0.5%|:question:|
 |[Ed Fed](https://edfed.org)|0.5%|:question:|
 |[United Texas Credit Union](https://utxcu.com)|0.5%|:question:|
-|[One Nevada](https://onenevada.org)|0.5%|:question:|
+|[One Nevada](https://onenevada.org)|0.5%|:question:| Must have under 35k income
+|[Signature FCU](https://signaturefcu.org)|1%|:question:| Mentions P2P is excluded
 |[Onyx Private](https://onyxprivate.com)|10k-20k|0.3-5%|:white_check_mark:| All Paypal transactionss are now capped at 0.3% cashback. Other non financial may be eligable for more
+|[Brinks Armored](https://brinksarmored.com)|1%|:question:| Unclear of point to dollar conversion ratio
+|[Security CU](https://securitycu.com)|1-3%|:question:| Unclear of point to dollar conversion ratio
+|[Rio Grande CU](https://riograndecu.org)|0.2-1.25%|:question:| Unclear of point to dollar conversion ratio
+|[Redwood CU](https://redwoodcu.org)|0.5%|:question:| Unclear of point to dollar conversion ratio
+
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
@@ -52,7 +58,6 @@
 |[BlueDot](https://thebluedot.co)|2%|:x:|
 |[Stash](https://stash.com)|1%|:question:|
 |[Treecard](https://treecard.org)|1-3%|:question:|
-|[Use Eagle](https://useagle.org)|:question:|:question:|
 |[Varo Money](https://varomoney.com)|1-6%|:question:|
 |[Revolut](https://revolut.com)|1-30%|:question:|
 
@@ -90,6 +95,9 @@
 |[Aloha Pacific](https://alohapacific.com)|0.5%|9$|:x:|
 |[DreamFirst Bank](https://dreamfirst.bank)|3%|6$|:x:|
 |[Tyndall](https://www.tyndall.org)|0.2%|50$|:question:|
+|[Louisiana Nation Bank](https://ln.bank)|0.5%|50$|:question:|
+|[Adams Community Bank](https://adamscommunity.com)|1.5%|15$|:question:|
+|[Tidemark](https://www.tidemarkfcu.org)|1-2%|15$|:question:| Has different tiers requiring 10-15+ transactions and 5-50k+ loan balance
 |[Oxygen](https://oxygen.us)|1$|1$|:question:|Limited to fashfood and 1$ per 8.99$ spend. Once per 24 hours.
 
 ### Lottery
