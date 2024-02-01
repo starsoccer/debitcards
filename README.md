@@ -41,13 +41,14 @@
 |[United FCU](https://unitedfcu.com)|0.33%|:question:| Unclear of point to dollar conversion ratio
 |[GSB Bank](https://mygsb.bank)|0.25%|:question:| Unclear of point to dollar conversion ratio
 |[CCF Bank](https://ccf.us)|0.25%|:question:| Unclear of point to dollar conversion ratio
+|[Obee](https://obee.com)|0.33%|:question:|
 
 
 ### Business Cards
 |Name|CashBack|PPBP|More Info|
 |---|---|---|---|
 |[Grasshopper](https://grasshopper.bank)|1%|:question:|
-|[My Honnor Bank](https://myhonorbank.com)|0.25-1%|:question:|
+|[My Honnor Bank](https://myhonorbank.com)|0.25-1%|:question:| 0.25% on anything over 2k
 
 ## Unknown Cards
 
@@ -63,7 +64,6 @@
 |[Texas Bank](https://texasbnk.com)|:question:|:question:|
 |[One Nevada](https://onenevada.org)|0.5%|:question:|
 |[Ugami](https://ugami.com/)|1-3%|:question:|
-|[Obee](https://obee.com)|1%|:question:|
 |[BlueDot](https://thebluedot.co)|2%|:x:|
 |[Stash](https://stash.com)|1%|:question:|
 |[Treecard](https://treecard.org)|1-3%|:question:|
