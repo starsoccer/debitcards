@@ -28,6 +28,10 @@
 |[One Nevada](https://onenevada.org)|0.5%|:question:| Must have under 35k income
 |[Signature FCU](https://signaturefcu.org)|1%|:question:| Mentions P2P is excluded
 |[Onyx Private](https://onyxprivate.com)|10k-20k|0.3-5%|:white_check_mark:| All Paypal transactionss are now capped at 0.3% cashback. Other non financial may be eligable for more
+|[Serve](https://serve.com)|1%|:question:|
+
+### Point Based Cards
+|Name|CashBack|PPBP|More Info|
 |[Brinks Armored](https://brinksarmored.com)|1%|:question:| Unclear of point to dollar conversion ratio
 |[Security CU](https://securitycu.com)|1-3%|:question:| Unclear of point to dollar conversion ratio
 |[Rio Grande CU](https://riograndecu.org)|0.2-1.25%|:question:| Unclear of point to dollar conversion ratio
@@ -37,7 +41,6 @@
 |[United FCU](https://unitedfcu.com)|0.33%|:question:| Unclear of point to dollar conversion ratio
 |[GSB Bank](https://mygsb.bank)|0.25%|:question:| Unclear of point to dollar conversion ratio
 |[CCF Bank](https://ccf.us)|0.25%|:question:| Unclear of point to dollar conversion ratio
-|[Serve](https://serve.com)|1%|:question:|
 
 
 ### Business Cards
