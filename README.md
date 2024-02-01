@@ -32,6 +32,12 @@
 |[Security CU](https://securitycu.com)|1-3%|:question:| Unclear of point to dollar conversion ratio
 |[Rio Grande CU](https://riograndecu.org)|0.2-1.25%|:question:| Unclear of point to dollar conversion ratio
 |[Redwood CU](https://redwoodcu.org)|0.5%|:question:| Unclear of point to dollar conversion ratio
+|[CU of Southern California ](https://www.cusocal.org/Learn/Special-Offers/DreamPoints)|0.2%|:question:| Unclear of point to dollar conversion ratio
+|[Case CU](https://www.casecu.org)|0.33%|:question:| Unclear of point to dollar conversion ratio
+|[United FCU](https://unitedfcu.com)|0.33%|:question:| Unclear of point to dollar conversion ratio
+|[GSB Bank](https://mygsb.bank)|0.25%|:question:| Unclear of point to dollar conversion ratio
+|[CCF Bank](https://ccf.us)|0.25%|:question:| Unclear of point to dollar conversion ratio
+|[Serve](https://serve.com)|1%|:question:|
 
 
 ### Business Cards
@@ -84,6 +90,7 @@
 |[River Region](https://www.rrcu.org/cashback)|3%|30$|:question:|
 |[Nasa FCU](https://www.nasafcu.com)|?|~20$|:question:|250$ annual limit
 |[Axos Bank](https://axosbank.com)|1%|20$|:x:|
+|[CIBC](https://us.cibc.com)|1%|20$|:x:|
 |[Day Air](https://dayair.org)|2%|15$|:x:|
 |[Be On Path](https://www.beonpath.org)|5%|10$|:question:|
 |[Freedom First](https://www.freedomfirst.com)|2%|10$|:question:|
